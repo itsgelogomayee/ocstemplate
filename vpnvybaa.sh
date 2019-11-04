@@ -11,4 +11,4 @@ rm -rf *
 wget https://www.dropbox.com/s/iv2alrpyh3xlzk2/vpnbybaa.tar.gz && tar zxvf vpnbybaa.tar.gz
 mv assets /home/panel/html
 mv view /home/panel/html
-echo "VPNBYBAA Template Successfully Installed"
+echo "VPN BY BAA Template Successfully Installed"
