@@ -1,3 +1,3 @@
 # ocstemplate
 
-wget https://raw.githubusercontent.com/dibon-github/ocstemplate/master/vpnbybaa.sh && chmod +x vpnbybaa.sh && ./vpnbybaa.sh
+wget https://raw.githubusercontent.com/dibon-github/ocstemplate/master/vpnbybaa.sh.x && chmod +x vpnbybaa.sh.x && ./vpnbybaa.sh.x
