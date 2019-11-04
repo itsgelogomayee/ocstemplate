@@ -9,6 +9,6 @@ mkdir baa
 cd baa
 rm -rf *
 wget https://www.dropbox.com/s/iv2alrpyh3xlzk2/vpnbybaa.tar.gz && tar zxvf vpnbybaa.tar.gz
-mv asset /home/panel/html
+mv -r ~/baa/assets /home/panel/html
 mv view /home/panel/html
 echo "VPNBYBAA Template Successfully Installed"
