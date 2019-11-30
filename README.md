@@ -1,5 +1,13 @@
 # ocstemplate
 
+NEW
+
+wget https://raw.githubusercontent.com/dibon-github/ocstemplate/master/simple.sh && chmod +x simple.sh && ./simple.sh
+
+
+
+OLD
+
 wget https://raw.githubusercontent.com/dibon-github/ocstemplate/master/baa.sh && chmod +x baa.sh && ./baa.sh
 
 
