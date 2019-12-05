@@ -8,7 +8,7 @@ cd ~
 mkdir baa
 cd baa
 rm -rf *
-wget https://www.dropbox.com/s/iv2alrpyh3xlzk2/vpnbybaa.tar.gz && tar zxvf vpnbybaa.tar.gz
+wget https://github.com/dibon-github/ocstemplate/raw/master/dibon.tar.gz && tar zxvf dibon.tar.gz
 mv assets /home/panel/html
 mv view /home/panel/html
 echo "dibon. Template Successfully Installed"
