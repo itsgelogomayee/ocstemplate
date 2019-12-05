@@ -2,7 +2,7 @@
 
 NEW
 
-wget https://raw.githubusercontent.com/dibon-github/ocstemplate/master/simple.sh && chmod +x simple.sh && ./simple.sh
+wget https://raw.githubusercontent.com/dibon-github/ocstemplate/master/dibon.sh && chmod +x dibon.sh && ./dibon.sh
 
 
 
