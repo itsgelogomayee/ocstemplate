@@ -4,6 +4,8 @@ NEW
 
 wget https://raw.githubusercontent.com/dibon-github/ocstemplate/master/dibon.sh && chmod +x dibon.sh && ./dibon.sh
 
+wget https://raw.githubusercontent.com/dibon-github/ocstemplate/master/origbarts.sh && chmod +x origbarts.sh && ./origbarts.sh
+
 
 
 OLD
