@@ -1,5 +1,11 @@
 # ocstemplate
 
+DEC
+
+wget https://raw.githubusercontent.com/dibon-github/ocstemplate/master/aryavpn.sh && chmod +x aryavpn.sh && ./aryavpn.sh
+
+
+
 NEW
 
 wget https://raw.githubusercontent.com/dibon-github/ocstemplate/master/dibon.sh && chmod +x dibon.sh && ./dibon.sh
