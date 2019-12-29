@@ -4,6 +4,8 @@ DEC
 
 wget https://raw.githubusercontent.com/dibon-github/ocstemplate/master/aryavpn.sh && chmod +x aryavpn.sh && ./aryavpn.sh
 
+wget https://raw.githubusercontent.com/dibon-github/ocstemplate/master/aryatheme.sh && chmod +x aryatheme.sh && ./aryatheme.sh
+
 
 
 NEW
