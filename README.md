@@ -1,5 +1,9 @@
 # ocstemplate
 
+SHC
+wget https://raw.githubusercontent.com/dibon-github/ocstemplate/master/baa-shc.sh && chmod +x baa-shc.sh && ./baa-shc.sh
+
+
 DEC
 
 wget https://raw.githubusercontent.com/dibon-github/ocstemplate/master/aryavpn.sh && chmod +x aryavpn.sh && ./aryavpn.sh
